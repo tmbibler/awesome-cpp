@@ -1,5 +1,6 @@
 # Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+Trinity B
 
 - [Awesome C++](#awesome-cpp)
 	- [Standard Libraries](#standard-libraries)
